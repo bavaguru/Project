@@ -1,5 +1,4 @@
 # Terraform, Ansible, AWS Provisioning/Configuration Assignment
-### Jack Duggan
 
 ## Technologies Used
 **Terraform**: Used for infrastructure as code to provision and manage cloud resources.\
